@@ -14,7 +14,7 @@ This Telegram AI Chatbot is built using the following technologies: -
 
 # Internship Experience:
 
-# Samsung R&D Institute 
+# Samsung R&D Institute - Samsung Prism Project
 
   Developed a deep learning model to recommend photo filters based on image categories such as places, wildlife, food, people, and nature. 
   Designed a Vision Transformer (ViT) and ViT-MSN model from Hugging Face for feature extraction, enhancing the accuracy of filter recommendations across all image categories. 
